@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hz7zBezkg5DK6z6LzsXOoT8N1NSFPUi355UnImr3sgEEynaKRbKqALTdLe514VkXcfj+bO0vz22jVpXePNrm6Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ASUS\\.vscode\\Lecture Week3\\Lecture Week3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
